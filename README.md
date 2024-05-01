@@ -8,7 +8,7 @@
 ## 🤓 Currently studying (or procrastinating to study):
 - JavaScript
 - Go
-- C/C++
+- Rust
 
 ## ☺️ On the side:
 - trying (and mostly failing) to play the guitar. 🎸
